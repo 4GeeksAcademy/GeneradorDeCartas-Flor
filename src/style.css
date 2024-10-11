@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.pinta {
+  font-size: 110px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.value {
+  font-size: 130px;
+  align-items: center;
+  justify-content: center;
+}
+
+.pinta-bottom {
+  transform: rotate(180deg);
+}
